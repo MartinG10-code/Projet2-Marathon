@@ -1,0 +1,27 @@
+.card-white {
+    background: white;
+    padding: 60px; /* Augmentez la valeur du padding pour agrandir la carte */
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 20px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 20px; /* Augmentez la valeur du padding pour agrandir les éléments de la liste */
+}
+
+.list-inline i {
+    font-size: 150px; /* Augmentez la valeur du font-size pour agrandir les icônes */
+    color: rgb(1,1,1);
+}
+
+.list-inline i:hover {
+    color: #EE6557;
+}
